@@ -1,10 +1,10 @@
 body {
-    background-color: #4C5973;
+    background-color: #FFAF82;
     font-family: 'Besley', serif;
 }
 
 #container {
-    background-color: #F26D6D;
+    background-color: #FFFFC5;
     width: 900px;
     margin: 20px auto;
     border-radius: 20px;
@@ -12,52 +12,52 @@ body {
 }
 
 header {
-    padding: 20px 0;
-    background-color: #CEF299;
+    padding: 5px 0;
+    background-color: #9FCD98;
     border-radius: 20px 20px 0 0;
 }
 
 header img {
     display: block;
-    width: 30%;
+    width: 20%;
     margin: 0 auto;
 }
 
 header h1 {
     font-size: 2.5em;
     text-align: center;
-    color: #F26D6D;
+    color: #FFFFC5;
     font-family: 'Oswald', sans-serif;
     text-shadow: 2px 2px 2px #000;
 }
 
 nav {
-    background-color: #F26D6D;
+    background-color: #FFFFC5;
     padding-top: 10px;
     text-align: center;
 }
 
 nav a {
     display: inline-block;
-    background-color: #CEF299;
+    background-color: #9FCD98;
     height: 50px;
     width: 175px;
     font-size: 1.5em;
     font-weight: bold;
     line-height: 50px;
-    color: #4C5973;
+    color: #FFFFC5;
     text-decoration: none;
     border-radius: 10px 10px 0 0;
     margin: 0 10px;
 }
 
 nav a:hover {
-    background-color: #4C5973;
-    color: #CEF299;
+    background-color: #FFAF82;
+    color: #FFFFC5;
 }
 
 main {
-    background-color: #CEF299;
+    background-color: #9FCD98;
     padding: 20px;
     margin: 0 20px 20px 20px;
 
@@ -65,7 +65,7 @@ main {
 
 main h2 {
     text-align: center;
-    color: #4C5973;
+    color: #FFFFC5;
     font-size: 2em;
     font-family: 'Oswald', sans-serif;
 }
@@ -74,28 +74,28 @@ main img {
     display: block;
     width: 50%;
     margin: 20px auto;
-    background-color: #4C5973;
+    background-color: #FFFFC5;
     padding: 20px;
     border-radius: 20px;
 }
 
 footer {
-    background-color: #CEF299;
+    background-color: #9FCD98;
     padding: 60px 0;
-    color: #F26D6D;
+    color: #FFFFC5;
     font-size: 1.5em;
     text-align: center;
     border-radius: 0 0 20px 20px;
 }
 
 .active {
-    background-color: #4C5973;
-    color: #CEF299;
+    background-color: #FFAF82;
+    color: #FFFFC5;
 }
 
 .pro_head {
     text-align: center;
-    color: #F26D6D;
+    color: #FFFFC5;
     font-size: 1.5em;
     font-family: 'Oswald', sans-serif;
 }
