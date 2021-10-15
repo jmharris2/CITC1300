@@ -1,5 +1,5 @@
 body{
-    background-color: #5E5F62;
+    background-color: #65A66F;
     font-size: 18px;
     font-family: 'Source Sans Pro', sans-serif;
 }
@@ -13,23 +13,23 @@ img {
 /* Mobile Styles */
 
 #container {
-    background-color: #E6E7E8;
+    background-color: #F0F2DF;
     margin: 20px;
 }
 
 header {
-    padding: 60px 40px;
-    border-bottom: 4px solid #F29422;
+    padding: 10px 40px;
+    border-bottom: 4px solid #404040;
 }
 
 header h1 {
     text-align: center;
     font-size: 2.5em;
-    font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'Festive', cursive;
 }
 
 .col {
-    border: 4px solid #F29422;
+    border: 4px solid #404040;
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
@@ -38,7 +38,7 @@ header h1 {
 .col h2 {
     text-align: center;
     font-size: 2em;
-    font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'Festive', cursive;
 }
 
 .col img {
@@ -52,9 +52,9 @@ header h1 {
 footer {
     padding: 60px 0;
     text-align: center;
-    border-top: 4px solid #F29422;
+    border-top: 4px solid #404040;
     font-weight: bold;
-    font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'Festive', cursive;
     font-size: 1em;
 }
 
@@ -90,7 +90,7 @@ footer {
     }
 
     .col img {
-        width: 40%;
+        width: 90%;
     }
 
     .main_img {
