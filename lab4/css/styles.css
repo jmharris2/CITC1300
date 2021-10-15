@@ -22,7 +22,7 @@ img {
 header {
     background-image: url('../images/gameover.jpg');
     background-size: cover;
-    padding: 70px 0;
+    padding: 50px 0;
     border-radius: 20px 20px 0 0;
 }
 
@@ -109,7 +109,7 @@ footer {
 
 @media (min-width: 768px) {
     header {
-        padding: 125px;
+        padding: 100px;
     }
 
     header h1 {
@@ -136,7 +136,7 @@ footer {
     }
 
     section, aside {
-        width: 50%;
+        width: 45%;
     }
     
     aside img {
@@ -152,3 +152,32 @@ footer {
 
 /*Desktop Styles  */
 
+@media(min-width: 1024px) {
+    #container {
+        width: 75%;
+        margin: 20px auto;
+        border: 4px solid #53BCBD;
+        border-radius: 20px;
+    }
+
+    header {
+        background-size: cover;
+        padding: 50px 0;
+    }
+
+    nav li a {
+        margin: 0 20px;
+    }
+
+    #lower_flex {
+        display: flex;
+    }
+
+    .col {
+        width: 100%;
+    }
+
+    .col img {
+        width: 100%;
+    }
+}
