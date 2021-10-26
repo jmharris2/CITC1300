@@ -30,6 +30,7 @@ header h1 {
     text-shadow: 2px 2px 2px #000;
     text-align: center;
     font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
 }
 
 nav ul {
@@ -71,6 +72,7 @@ nav, section, aside, .col, footer {
 
 h2, h3 {
     color: #E7503B;
+    font-family: 'Quicksand', sans-serif;
     text-shadow: 2px 2px 2px #593636;
     font-size: 1.5em;
     text-align: center;
@@ -133,6 +135,7 @@ table {
 
     header h1 {
         font-size: 3em;
+        font-family: 'Work Sans', sans-serif;
     }
 
     nav {
